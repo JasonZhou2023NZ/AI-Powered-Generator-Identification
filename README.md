@@ -1,8 +1,6 @@
 # AI-Powered-Generator-Identification
 
 ## Project Overview
-Role: Wholesale Markets Analyst | Duration: Mar 2024 - Jun 2024 | Location: Auckland, New Zealand
-
 In New Zealand’s electricity market, participant anonymity challenges trading efficiency. I developed an AI-powered tool that unveiled hidden market offers, enhancing trading strategies and revenue.
 
 ## Objectives

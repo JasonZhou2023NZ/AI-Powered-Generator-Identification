@@ -27,3 +27,5 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 
 ## Tools & Technologies
 Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT
+
+## Result Visualization

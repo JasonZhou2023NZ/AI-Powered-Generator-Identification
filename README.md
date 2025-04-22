@@ -7,6 +7,14 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 ## 👨‍💻Tech Stack
 Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Query-4479A1?logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-blueviolet?logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+![TimeGPT](https://img.shields.io/badge/TimeGPT-Forecasting-lightgrey?logo=github)
 
 ## Objectives
 - Decode opaque bidding behaviors in energy spot trading.

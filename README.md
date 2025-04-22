@@ -4,6 +4,10 @@
 ## 🎯Project Overview
 In New Zealand’s electricity market, participant anonymity challenges trading efficiency. I developed an AI-powered tool that unveiled hidden market offers, enhancing trading strategies and revenue.
 
+## 👨‍💻Tech Stack
+Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+
 ## Objectives
 - Decode opaque bidding behaviors in energy spot trading.
 - Forecast energy offer distributions by price/quantity.
@@ -25,8 +29,5 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 - Integrate outage & HVDC datasets for better accuracy.
 - Apply dimensionality reduction to ease training.
 - Enhance dashboards with interactive user features.
-
-## Tools & Technologies
-Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT
 
 ## Result Visualization

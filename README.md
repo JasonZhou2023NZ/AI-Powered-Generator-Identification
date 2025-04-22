@@ -1,6 +1,7 @@
-# AI-Powered-Generator-Identification
+# Project Name: AI-powered Generator Identification: Unveiling Market Offers in Energy Spot Trading
+🌐Github Link: https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Identification
 
-## Project Overview
+## 🎯Project Overview
 In New Zealand’s electricity market, participant anonymity challenges trading efficiency. I developed an AI-powered tool that unveiled hidden market offers, enhancing trading strategies and revenue.
 
 ## Objectives

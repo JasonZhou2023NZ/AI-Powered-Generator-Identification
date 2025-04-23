@@ -1,4 +1,4 @@
-# Project Name: AI-powered Generator Identification: Unveiling Market Offers in Energy Spot Trading
+# AI-powered Generator Identification: Unveiling Market Offers in Energy Spot Trading
 🌐Github Link: https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Identification
 
 ## 📌Project Overview
@@ -17,7 +17,8 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 - AI Model Creation: Trained RNN, Random Forest, LSTM, and Time-GPT models.
 - Model Fine-tuning: Tuned hyperparameters for enhanced prediction.
 - Data Visualization: Built Power BI dashboards for visual analytics.
-![Fig. 1 The whole implementation process of this project](image-4.png)
+![](image-4.png)
+Fig. 1 The whole implementation process of this project
 
 ## 👨‍💻Tech Stack
 Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT

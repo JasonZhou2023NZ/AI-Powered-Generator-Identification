@@ -1,12 +1,13 @@
 # AI-powered Generator Identification: Unveiling Market Offers in Energy Spot Trading
-🌐Github Link: https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Identification
 
 ## 📌Project Overview
 In New Zealand’s electricity market, participant anonymity challenges trading efficiency. I developed an AI-powered tool that unveiled hidden market offers, enhancing trading strategies and revenue.
+
 ✅Objectives:
 - Decode opaque bidding behaviors in energy spot trading.
 - Forecast energy offer distributions by price/quantity.
 - Enable strategic offer positioning for optimal revenue.
+
 ✅Impacts:
 - Effectively improved decision-making efficiency in the wholesale trading process.
 - Enhanced predictive accuracy by leveraging various machine learning algorithms.
@@ -17,11 +18,15 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 - AI Model Creation: Trained RNN, Random Forest, LSTM, and Time-GPT models.
 - Model Fine-tuning: Tuned hyperparameters for enhanced prediction.
 - Data Visualization: Built Power BI dashboards for visual analytics.
-![](image-4.png)
-Fig. 1 The whole implementation process of this project
+
+<div style="text-align: center;">
+  <img src="image-4.png" alt="Implementation Process" style="width: 60%; max-width: 600px; height: auto;">
+  <p style="text-align: center;"><em>Fig. 1 The whole implementation process of this project</em></p>
+</div>
 
 ## 👨‍💻Tech Stack
 Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | Time-GPT
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Query-4479A1?logo=mysql&logoColor=white)
@@ -38,9 +43,18 @@ Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | T
 - Enabled strategic bidding and revenue optimization.
 
 ## 🖼️Screenshots & Demo
-![Fig. 2 Traditional Supply Stack Analysis – Price and Quantity Offers Across Trading Periods](image-1.png)
-![Fig. 3 Predicted Energy Offer Distribution by Price Bins for Each Trading Period](image-2.png)
-![Fig. 4 Market Participant details of Each Price Bins](image-3.png)
+<div style="text-align: center;">
+  <img src="image-1.png" alt="Stack Analysis" style="width: 60%; max-width: 600px; height: auto;">
+  <p style="text-align: center;"><em>Fig. 2 Traditional Supply Stack Analysis – Price and Quantity Offers Across Trading Periods</em></p>
+</div>
+<div style="text-align: center;">
+  <img src="image-2.png" alt="Predicted results" style="width: 60%; max-width: 600px; height: auto;">
+  <p style="text-align: center;"><em>Fig. 3 Predicted Energy Offer Distribution by Price Bins for Each Trading Period</em></p>
+</div>
+<div style="text-align: center;">
+  <img src="image-3.png" alt="Details for each bin" style="width: 60%; max-width: 600px; height: auto;">
+  <p style="text-align: center;"><em>Fig. 4 Market Participant details of Each Price Bins</em></p>
+</div>
 
 ## ⭐Future Enhancements
 - Integrate outage & HVDC datasets for better accuracy.

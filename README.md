@@ -20,7 +20,7 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 - Data Visualization: Built Power BI dashboards for visual analytics.
 
 <div style="text-align: center;">
-  <img src="image-4.png" alt="Implementation Process" style="width: 60%; max-width: 600px; height: auto;">
+  <img src="result/image-4.png" alt="Implementation Process" style="width: 60%; max-width: 600px; height: auto;">
   <p style="text-align: center;"><em>Fig. 1 The whole implementation process of this project</em></p>
 </div>
 
@@ -44,15 +44,15 @@ Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | T
 
 ## 🖼️Screenshots & Demo
 <div style="text-align: center;">
-  <img src="image-1.png" alt="Stack Analysis" style="width: 60%; max-width: 600px; height: auto;">
+  <img src="result/image-1.png" alt="Stack Analysis" style="width: 60%; max-width: 600px; height: auto;">
   <p style="text-align: center;"><em>Fig. 2 Traditional Supply Stack Analysis – Price and Quantity Offers Across Trading Periods</em></p>
 </div>
 <div style="text-align: center;">
-  <img src="image-2.png" alt="Predicted results" style="width: 60%; max-width: 600px; height: auto;">
+  <img src="result/image-2.png" alt="Predicted results" style="width: 60%; max-width: 600px; height: auto;">
   <p style="text-align: center;"><em>Fig. 3 Predicted Energy Offer Distribution by Price Bins for Each Trading Period</em></p>
 </div>
 <div style="text-align: center;">
-  <img src="image-3.png" alt="Details for each bin" style="width: 60%; max-width: 600px; height: auto;">
+  <img src="result/image-3.png" alt="Details for each bin" style="width: 60%; max-width: 600px; height: auto;">
   <p style="text-align: center;"><em>Fig. 4 Market Participant details of Each Price Bins</em></p>
 </div>
 

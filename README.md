@@ -12,8 +12,8 @@ In New Zealand’s electricity market, participant anonymity challenges trading 
 - Enhanced predictive accuracy by leveraging various machine learning algorithms.
 
 ## 💡Key Features
-- Data Acquisition: Collected wholesale trading market data over lastest four yesars.
-- Data Preparation: Conducted features engineering; built input/output matrices.
+- Data Acquisition: Collected wholesale trading market data over the last four years.
+- Data Preparation: Conducted feature engineering; built input/output matrices.
 - AI Model Creation: Trained RNN, Random Forest, LSTM, and Time-GPT models.
 - Model Fine-tuning: Tuned hyperparameters for enhanced prediction.
 - Data Visualization: Built Power BI dashboards for visual analytics.
@@ -46,5 +46,3 @@ Python | Power BI | SQL | Excel | Pandas | Numpy | Scikit-learn | TensorFlow | T
 - Integrate outage & HVDC datasets for better accuracy.
 - Apply dimensionality reduction to ease training.
 - Enhance dashboards with interactive user features.
-
-## Conclusion
